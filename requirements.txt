@@ -1,0 +1,9 @@
+streamlit
+streamlit-option-menu
+streamlit-autorefresh
+matplotlib
+pandas
+numpy
+requests
+pyngrok
+scikit-learn
